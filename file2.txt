@@ -4,3 +4,6 @@ this is file2
 change 1- to fix the bug yes
 
 change have been made
+
+
+another change have been made
